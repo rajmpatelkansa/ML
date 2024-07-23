@@ -1,3 +1,5 @@
 python Libraries Install in VS Code
+pip install pandas scikit-learn matplotlib
+
 
 Terminal
